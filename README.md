@@ -1,38 +1,82 @@
-<h1 align="center">Hi 👋, I'm Kumar Mayank Verma</h1>
-<h3 align="center">System Designer, Chief Architect of Backend Infrastructure in my current organization.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rowm30&label=Profile%20views&color=0e75b6&style=flat" alt="rowm30" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rowm30" alt="rowm30" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/solver9063" target="blank"><img src="https://img.shields.io/twitter/follow/solver9063?logo=twitter&style=for-the-badge" alt="solver9063" /></a> </p>
-
-- 🔭 I’m currently working on **Microservices**
-
-- 🌱 I’m currently learning **Gin**
-
-- 👯 I’m looking to collaborate on **GoLang**
-
-- 🤝 I’m looking for help with **AWS**
-
-- 💬 Ask me about **Spring Boot, Spring MVC and the whole Spring Umbrella Technlogies**
-
-- 📫 How to reach me **rowm30@gmail.com**
-
-- ⚡ Fun fact **I am 6' 2**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/solver9063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solver9063" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayank-ml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-ml/" height="30" width="40" /></a>
-<a href="https://instagram.com/kmv9063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kmv9063" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rowm30&color=blue&style=flat" alt="Profile views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rowm30&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+# Hi there 👋, I'm **Kumar Mayank Verma**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rowm30&show_icons=true&locale=en&layout=compact" alt="rowm30" /></p>
+### System Designer & Chief Architect of Backend Infrastructure
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rowm30&show_icons=true&locale=en" alt="rowm30" /></p>
+<p align="center">
+  <a href="https://twitter.com/solver9063"><img src="https://img.shields.io/twitter/follow/solver9063?style=social&logo=twitter" alt="@solver9063" /></a>
+  <a href="https://linkedin.com/in/mayank-ml"><img src="https://img.shields.io/badge/LinkedIn-Mayank%20Verma-blue?style=social&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:rowm30@gmail.com"><img src="https://img.shields.io/badge/Email-rowm30@gmail.com-red?style=flat-square&logo=gmail" alt="Email" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rowm30&" alt="rowm30" /></p>
+---
+
+## ✨ About Me
+
+- 🔭 **Current Role:** Architecting microservices & backend platforms at my organization.
+- 🌱 **Learning:** Diving into **Gin** (Go web framework) and **GraphQL** best practices.
+- 👯 **Collaborating on:** Open-source **GoLang** and cloud-native projects.
+- 🤝 **Happy to Help with:** AWS infrastructure, Spring Boot ecosystems, and DevOps pipelines.
+- ⚡ **Fun Fact:** I’m **6'2"** and love turning complex problems into elegant solutions.
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go" alt="Go" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square" alt="Gin" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana" alt="Grafana" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular" alt="Angular" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node.js" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Designing **resilient microservices** architecture with event-driven patterns.
+- Building **observability** stacks using **Prometheus**, **Grafana**, and **ELK**.
+- Automating CI/CD with **Jenkins**, **GitHub Actions**, and **Argo CD**.
+
+---
+
+## 🌱 Learning & Exploration
+
+- Mastering **Gin** framework for high-performance Go APIs.
+- Exploring **AWS Lambda** & **Serverless** architectures.
+- Deep diving into **Distributed Tracing** and **Service Mesh**.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rowm30&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rowm30&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 How to Reach Me:
+
+- **Email:** [rowm30@gmail.com](mailto:rowm30@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mayank-ml](https://linkedin.com/in/mayank-ml)
+- **Twitter:** [@solver9063](https://twitter.com/solver9063)
+
+---
+
+*Crafted with ❤️ by Kumar Mayank Verma.*
+
