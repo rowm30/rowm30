@@ -1,103 +1,103 @@
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=MAYANK%20VERMA&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
-# Hey there! I'm Mayank 👋
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Architect;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&height=70&lines=Backend+Architect+%F0%9F%9A%80;System+Design+Expert+%F0%9F%92%BB;Problem+Solver+%F0%9F%8E%AF;Building+The+Future+%F0%9F%94%A5" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://linkedin.com/in/mayank-ml">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" />
   </a>
   <a href="https://twitter.com/solver9063">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" />
   </a>
   <a href="mailto:rowm30@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rowm30&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://komarev.com/ghpvc/?username=rowm30&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-## 🚀 About Me
+## ⚡ ABOUT THE WARRIOR
 
 ```javascript
-const mayank = {
-    pronouns: "He/Him",
-    code: ["Java", "Go", "JavaScript", "TypeScript", "Python"],
-    currentFocus: "Building scalable microservices & diving deep into system design",
-    askMeAbout: ["Backend Architecture", "AWS", "Spring Boot", "DevOps"],
-    technologies: {
-        backEnd: {
-            java: ["Spring Boot", "Spring Cloud", "Hibernate"],
-            go: ["Gin", "Fiber", "Echo"],
-            python: ["FastAPI", "Django"]
-        },
-        devOps: ["AWS", "Docker", "Kubernetes", "Jenkins", "GitHub Actions"],
+const MAYANK = {
+    title: "BACKEND ARCHITECT & SYSTEM DESIGNER",
+    location: "India 🇮🇳",
+    focus: "Building systems that scale to millions",
+    weapons: ["Java", "Go", "JavaScript", "TypeScript", "Python"],
+    currentMission: "Conquering microservices & distributed systems",
+    
+    arsenal: {
+        backend: ["Spring Boot", "Gin", "Node.js", "FastAPI"],
+        cloud: ["AWS", "Docker", "Kubernetes", "Terraform"],
         databases: ["PostgreSQL", "MongoDB", "Redis", "Kafka"],
-        misc: ["GraphQL", "gRPC", "RabbitMQ", "Elasticsearch"]
+        tools: ["GraphQL", "gRPC", "RabbitMQ", "Elasticsearch"]
     },
-    architecture: ["Microservices", "Event-Driven", "Serverless", "DDD"],
-    currentLearning: "Mastering Go concurrency patterns & Kubernetes operators",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+    
+    battleScars: "5+ years of production experience",
+    motto: "Code like a warrior, ship like a captain! ⚔️"
 };
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🔥 TECH ARSENAL
+<div align="center">
+⚔️ WEAPONS OF CHOICE
+<p>
+<img src="https://skillicons.dev/icons?i=java,go,js,ts,python" />
+</p>
+🛡️ BACKEND FORTRESS
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,django" />
+</p>
+☁️ CLOUD DOMINION
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions" />
+</p>
+🗄️ DATA STRONGHOLDS
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,mysql" />
+</p>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+📊 BATTLE STATISTICS
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rowm30&show_icons=true&theme=radical&bg_color=0D1117&border_color=FF6B6B&icon_color=FF6B6B&title_color=FF6B6B&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rowm30&theme=radical&background=0D1117&border=FF6B6B&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rowm30&custom_title=CONTRIBUTION%20BATTLEFIELD&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🏆 ACHIEVEMENTS UNLOCKED
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rowm30&theme=radical&no-frame=false&no-bg=false&column=7&margin-w=4&margin-h=4" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🎯 CURRENT MISSIONS
+<div align="left">
 
-🛠️ Tech Stack
-<div align="center">
-Languages
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Backend & Frameworks
-Show Image
-Show Image
-Show Image
-Show Image
-Cloud & DevOps
-Show Image
-Show Image
-Show Image
-Show Image
-Databases & Message Queues
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
-📊 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rowm30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowm30&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rowm30&theme=tokyonight" alt="GitHub Streak" />
-</div>
-🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rowm30&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
-</div>
-📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rowm30&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-🎯 Current Goals
+🔥 Building CivicConnect - Revolutionary platform for citizen-government interaction
+⚡ Mastering System Design - Preparing for FAANG-level architecture challenges
+🚀 Contributing to Open Source - Making the tech world better, one PR at a time
+💪 Daily DSA Grind - Because strong foundations build empires
+🎮 GitHub Contribution Streak - Making that graph look like a green battlefield
 
-🔭 Building CivicConnect - A platform to bridge citizens and government services
-🌱 Mastering System Design patterns and Distributed Systems
-👯 Contributing to more Open Source projects
-📚 Preparing for FAANG level system design interviews
-🎮 Making my GitHub contribution graph look like a piece of art!
-
-💡 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+💭 WARRIOR'S WISDOM
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff" />
-Show some ❤️ by starring some of the repositories!
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+🔥 DEPLOY FAST, BREAK NOTHING, LEAVE NO BUGS BEHIND! 🔥
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+<img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
 </div>
 ```
