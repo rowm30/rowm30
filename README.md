@@ -1,7 +1,7 @@
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=KUMAR%20MAYANK%20VERMA&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=KUMAR%20MAYANK%20VERMA&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&height=70&lines=Backend+Architect+%F0%9F%9A%80;System+Design+Expert+%F0%9F%92%BB;Problem+Solver+%F0%9F%8E%AF;Building+The+Future+%F0%9F%94%A5" alt="Typing SVG" />
 
